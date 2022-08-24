@@ -1,0 +1,21 @@
+
+body{
+  background:blueviolet;
+  color:whitesmoke;
+}
+label{
+  margin-left:580px;
+  font-size:40px;
+}
+
+input{
+  
+	font-size:30px;
+	color:blueviolet;
+	background-color:white;
+	border: 2px solid white;
+	border-radius:15px;
+	left:0px;	top:0px;
+	position:relative; height:60px;
+}
+
